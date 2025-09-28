@@ -130,4 +130,7 @@ function getLocationCoords(location) {
   return coords[location] || {lat: 12.9716, lng: 77.5946};
 }
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> a4e4681eae48e1cccaf1d40abc8f4292d3ed8869
